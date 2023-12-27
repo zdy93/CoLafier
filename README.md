@@ -14,6 +14,7 @@ This repository is the official implementation of the **SDM2024** paper "CoLafie
 * matplotlib==3.6.2
 * numpy==1.24.2
 * Pillow==9.4.0
+
 These packages can be installed directly by running the following command:
 ```
 pip install -r requirements.txt
