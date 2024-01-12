@@ -1,4 +1,7 @@
 # CoLafier
+
+[![arXiv](https://img.shields.io/badge/arXiv-2401.05458-00ff00.svg)](https://arxiv.org/abs/2401.05458)
+
 This repository is the official implementation of the **SDM2024** paper "CoLafier: Collaborative Noisy Label Purifier With Local Intrinsic Dimensionality Guidance". Some code scripts are adapted from [DISC](https://github.com/JackYFL/DISC/tree/main).
 
 ## Requirements
